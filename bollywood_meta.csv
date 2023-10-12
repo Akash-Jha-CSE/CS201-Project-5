@@ -1,0 +1,911 @@
+imdb_id,imdb_rating,title,original_title,is_adult,year_of_release,runtime,genres,Action,Adventure,Animation,Biography,Comedy,Crime,Documentary,Drama,Family,Fantasy,History,Horror,Music,Musical,Mystery,Romance,Sci-Fi,Short,Sport,Thriller,War,imdb_votes
+tt10017956,7.1,Gone Kesh,Gone Kesh,0,2019,110,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,178
+tt10324144,8.3,Article 15,Article 15,0,2019,130,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13417
+tt10360496,5.1,Thackeray,Thackeray,0,2019,120,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2301
+tt10816510,7.8,P Se Pyaar F Se Faraar,P Se Pyaar F Se Faraar,0,2019,131,Crime|Drama|Romance,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,777
+tt11007050,5.7,#Yaaram,#Yaaram,0,2019,\N,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7
+tt11046300,8.1,Ujda Chaman,Ujda Chaman,0,2019,120,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1440
+tt2395469,8.2,Gully Boy,Gully Boy,0,2019,153,Drama|Music,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,22440
+tt4355838,4.8,Albert Pinto Ko Gussa Kyun Aata Hai?,Albert Pinto Ko Gussa Kyun Aata Hai?,0,2019,100,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+tt4971258,4.3,Bombairiya,Bombairiya,0,2019,104,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,295
+tt5013008,4.2,Fraud Saiyaan,Fraud Saiyyan,0,2019,109,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,504
+tt5668770,7.3,Mardaani 2,Mardaani 2,0,2019,103,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1000
+tt6264938,7.4,Kesari,Kesari,0,2019,150,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,10653
+tt6836936,5.5,Saaho,Saaho,0,2019,170,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12049
+tt6862542,7.4,Hume Tumse Pyaar Kitna,Hume Tumse Pyaar Kitna,0,2019,91,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,85
+tt6903440,6.5,Manikarnika: The Queen of Jhansi,Manikarnika: The Queen of Jhansi,0,2019,148,Action|Biography|Drama,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7361
+tt6978954,4.6,Pal Pal Dil Ke Paas,Pal Pal Dil Ke Paas,0,2019,154,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,562
+tt6986710,6.1,The Accidental Prime Minister,The Accidental Prime Minister,0,2019,112,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5549
+tt6988116,3.6,Kalank,Kalank,0,2019,166,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9106
+tt7059844,8,Dabangg 3,Dabangg 3,0,2019,160,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5758
+tt7189494,6,Chicken Curry Law,Chicken Curry Law,0,2019,127,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+tt7228072,7,Pranaam,Pranaam,0,2019,\N,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+tt7255568,2.5,Student of the Year 2,Student of the Year 2,0,2019,146,Drama|Romance|Sport,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,12671
+tt7463730,5.3,Junglee,Junglee,0,2019,115,Action|Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1064
+tt7485048,8.2,Super 30,Super 30,0,2019,154,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13972
+tt7639372,4.3,Total Dhamaal,Total Dhamaal,0,2019,130,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4817
+tt7721946,3.3,Housefull 4,Housefull 4,0,2019,145,Action|Comedy|Fantasy,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4572
+tt7778680,6.9,Photograph,Photograph,0,2019,110,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2391
+tt7881524,4.1,Arjun Patiala,Arjun Patiala,0,2019,107,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,676
+tt8108196,6,Judgementall Hai Kya,Judgementall Hai Kya,0,2019,121,Comedy|Drama|Thriller,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3269
+tt8108200,7.5,Sonchiriya,Sonchiriya,0,2019,143,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2322
+tt8108206,8.9,Saand Ki Aankh,Saand Ki Aankh,0,2019,146,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1902
+tt8108208,6,Why Cheat India,Why Cheat India,0,2019,121,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1891
+tt8108268,8,The Tashkent Files,The Tashkent Files,0,2019,134,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,5524
+tt8110330,8.4,Dil Bechara,Dil Bechara,0,2019,101,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,333
+tt8130558,6.8,One Day: Justice Delivered,One Day: Justice Delivered,0,2019,124,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,590
+tt8130968,7.9,Badla,Badla,0,2019,118,Crime|Drama|Mystery,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,15499
+tt8144834,8.4,Section 375,Section 375,0,2019,124,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1841
+tt8206760,4.8,Jhootha Kahin Ka,Jhootha Kahin Ka,0,2019,133,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,215
+tt8268972,3.7,Khamoshi,Khamoshi,0,2019,96,Horror|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,153
+tt8291224,8.4,Uri: The Surgical Strike,Uri: The Surgical Strike,0,2019,138,Action|Drama|War,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,35112
+tt8304386,4.1,The Zoya Factor,The Zoya Factor,0,2019,134,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,683
+tt8396186,2.8,Amavas,Amavas,0,2019,134,Horror|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,235
+tt8484942,4.4,India's Most Wanted,India's Most Wanted,0,2019,123,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1449
+tt8504014,6.8,Good Newwz,Good Newwz,0,2019,134,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5466
+tt8647400,6.6,De De Pyaar De,De De Pyaar De,0,2019,135,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5387
+tt8706884,6,Prassthanam,Prassthanam,0,2019,141,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,272
+tt8785426,4.2,Jabariya Jodi,Jabariya Jodi,0,2019,125,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,767
+tt8869978,7.3,Batla House,Batla House,0,2019,146,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,5556
+tt8897986,9.4,Family of Thakurganj,Family of Thakurganj,0,2019,127,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,895
+tt8902990,6.6,The Sky Is Pink,The Sky Is Pink,0,2019,143,Drama|Family|Romance,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1659
+tt8983180,6.3,Made in China,Made in China,0,2019,128,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,596
+tt8983202,7.2,Kabir Singh,Kabir Singh,0,2019,173,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,20535
+tt9105014,6.8,Notebook,Notebook,0,2019,115,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1335
+tt9176260,7.1,Bypass Road,Bypass Road,0,2019,137,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,51
+tt9179426,4.6,Satellite Shankar,Satellite Shankar,0,2019,135,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+tt9239772,5.1,Setters,Setters,0,2019,126,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,158
+tt9248940,7.5,Dream Girl,Dream Girl,0,2019,132,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4077
+tt9248972,6.5,Mission Mangal,Mission Mangal,0,2019,130,Drama|History,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,7165
+tt9319812,5.6,Hum chaar,Hum chaar,0,2019,143,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,183
+tt9378950,8.7,Ghost,Ghost,0,2019,130,Horror|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1379
+tt9420648,8.2,Bala,Bala,0,2019,133,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1369
+tt9472208,4.1,Battalion 609,Battalion 609,0,2019,131,War,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,73
+tt9496212,5.3,22 Yards,22 Yards,0,2019,126,Sport,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,124
+tt9558612,3.3,PM Narendra Modi,PM Narendra Modi,0,2019,136,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4484
+tt9795264,6.7,Risknamaa,Risknamaa,0,2019,123,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11
+tt1971310,3.2,5 Weddings,5 Weddings,0,2018,90,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,316
+tt2150177,4.1,Brother Superhit!,Bhaiaji Superhit,0,2018,139,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,465
+tt2759338,3.8,Dassehra,Dassehra,0,2018,131,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,253
+tt2802062,4.2,Ishqeria,Ishqeria,0,2018,118,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,139
+tt3823392,7.4,Love Sonia,Love Sonia,0,2018,122,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1048
+tt4335954,5.5,My Birthday Song,My Birthday Song,0,2018,95,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,215
+tt4552546,7.1,3 Storeys,3 Storeys,0,2018,100,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,288
+tt4979110,5.1,Daas Dev,Daas Dev,0,2018,140,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,205
+tt5325684,3.3,Hate Story IV,Hate Story IV,0,2018,131,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1203
+tt5474036,6.9,Manmarziyaan,Manmarziyaan,0,2018,156,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5754
+tt5935704,7,Padmaavat,Padmaavat,0,2018,164,Drama|History|Romance,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,24550
+tt5970844,4,Thugs of Hindostan,Thugs of Hindostan,0,2018,164,Action|Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15980
+tt6028796,7.3,Evening Shadows,Evening Shadows,0,2018,102,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,280
+tt6071752,4,Dil Juunglee,Dil Juunglee,0,2018,124,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,289
+tt6078866,7.2,Soni,Soni,0,2018,97,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1595
+tt6102396,6.2,Kaalakaandi,Kaalakaandi,0,2018,112,Comedy|Thriller,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1978
+tt6129302,7.6,Bhavesh Joshi Superhero,Bhavesh Joshi Superhero,0,2018,154,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4928
+tt6144958,5.1,Jack & Dil,Jack & Dil,0,2018,98,Comedy|Family,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,55
+tt6173990,7.3,Gold,Gold,0,2018,151,Drama|History|Sport,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,10081
+tt6275262,5.6,Vodka Diaries,Vodka Diaries,0,2018,120,Mystery|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,959
+tt6452574,7.8,Sanju,Sanju,0,2018,155,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,42718
+tt6514196,6.6,Baazaar,Baazaar,0,2018,137,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3859
+tt6527426,5.5,Zero,Zero,0,2018,164,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,21456
+tt6588966,7.5,Hichki,Hichki,0,2018,116,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8129
+tt6747420,5.7,Rajma Chawal,Rajma Chawal,0,2018,117,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1369
+tt6774212,5.2,Aiyaary,Aiyaary,0,2018,157,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3538
+tt6826438,7.7,Parmanu: The Story of Pokhran,Parmanu: The Story of Pokhran,0,2018,129,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,18292
+tt6843812,5,Baaghi 2,Baaghi 2,0,2018,137,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7657
+tt6923462,7.4,Manto,Manto,0,2018,112,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2947
+tt7098658,7.8,Raazi,Raazi,0,2018,138,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,20289
+tt7147540,6.8,Made in India,Sui Dhaaga: Made in India,0,2018,122,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5850
+tt7162758,5.2,Paltan,Paltan,0,2018,150,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,729
+tt7212726,6.3,Simmba,Simmba,0,2018,158,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15829
+tt7260848,5.6,Khajoor Pe Atke,Khajoor Pe Atke,0,2018,119,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,182
+tt7262178,2.8,Veerey Ki Wedding,Veerey Ki Wedding,0,2018,131,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,380
+tt7274806,5.6,Kaashi in Search of Ganga,Kaashi in Search of Ganga,0,2018,125,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,201
+tt7363076,7.4,Raid,Raid,0,2018,122,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13159
+tt7384848,5.7,Missing,Missing,0,2018,120,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1642
+tt7412738,6.2,Nanu Ki Jaanu,Nanu Ki Jaanu,0,2018,133,Comedy|Drama|Horror,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,853
+tt7431594,2,Race 3,Race 3,0,2018,160,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,30038
+tt7526836,5.4,FryDay,FryDay,0,2018,114,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,658
+tt7527082,7.7,Hamid,Hamid,0,2018,108,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,560
+tt7581902,7.1,Sonu Ke Titu Ki Sweety,Sonu Ke Titu Ki Sweety,0,2018,138,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,17378
+tt7607940,1.7,Namaste England,Namaste England,0,2018,141,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2237
+tt7609114,4.8,Yamla Pagla Deewana Phir Se...,Yamla Pagla Deewana Phir Se...,0,2018,145,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,887
+tt7617988,7.5,Kuchh Bheege Alfaaz,Kuchh Bheege Alfaaz,0,2018,116,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,578
+tt7618184,6.7,Mulk,Mulk,0,2018,140,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12123
+tt7638344,4.5,Dhadak,Dhadak,0,2018,138,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,8363
+tt7695014,4.3,Saheb Biwi Aur Gangster 3,Saheb Biwi Aur Gangster 3,0,2018,140,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,631
+tt7700730,7.5,October,October,0,2018,115,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,11125
+tt7720254,4.4,Jaane kyun de yaaron,Jaane kyun de yaaron,0,2018,131,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+tt7720922,6.1,Batti Gul Meter Chalu,Batti Gul Meter Chalu,0,2018,161,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4169
+tt7722258,4.6,Genius,Genius,0,2018,165,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,803
+tt7723022,3.8,Nirdosh,Nirdosh,0,2018,110,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,108
+tt7725596,8,Badhaai Ho,Badhaai Ho,0,2018,124,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,21851
+tt7853242,7.2,Love Per Square Foot,Love Per Square Foot,0,2018,133,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6248
+tt7881542,4.5,Happy Phirr Bhag Jayegi,Happy Phirr Bhag Jayegi,0,2018,136,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,974
+tt7881558,6.2,Mercury,Mercury,0,2018,106,Horror|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,774
+tt7919680,7.5,Karwaan,Karwaan,0,2018,114,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9436
+tt8011276,7.7,Laila Majnu,Laila Majnu,0,2018,140,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1633
+tt8055888,7.4,Mard Ko Dard Nahin Hota,Mard Ko Dard Nahin Hota,0,2018,134,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3969
+tt8060624,4.7,Prince's Son,Nawabzaade,0,2018,112,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,748
+tt8108198,8.4,Andhadhun,Andhadhun,0,2018,139,Crime|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,51615
+tt8108202,7.7,Stree,Stree,0,2018,128,Comedy|Horror,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,22671
+tt8136908,7.2,Halkaa,Halkaa,0,2018,114,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,271
+tt8175968,5.2,High Jack,High Jack,0,2018,102,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,252
+tt8202612,5.6,Satyameva Jayate,Satyameva Jayate,0,2018,140,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5446
+tt8207768,6.8,Mere Pyare Prime Minister,Mere Pyare Prime Minister,0,2018,104,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,344
+tt8223250,7.7,Bioscopewala,Bioscopewala,0,2018,91,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,718
+tt8239946,8.2,Tumbbad,Tumbbad,0,2018,104,Drama|Fantasy|Horror,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,16535
+tt8324474,6.4,Hope Aur Hum,Hope Aur Hum,0,2018,96,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,289
+tt8338746,3.7,Phamous,Phamous,0,2018,115,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,207
+tt8396128,7.2,Pataakha,Pataakha,0,2018,134,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2931
+tt8426854,6.3,Jalebi,Jalebi,0,2018,112,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1598
+tt8427036,5.5,Helicopter Eela,Helicopter Eela,0,2018,135,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,796
+tt8458202,6.7,Pihu,Pihu,0,2018,91,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1582
+tt8852558,6.9,Mitron,Mitron,0,2018,119,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1820
+tt9070934,6.3,The Journey of Karma,The Journey of Karma,0,2018,98,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+tt1806913,4.9,Golmaal Again,Golmaal Again,0,2017,140,Action|Comedy|Fantasy,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7330
+tt2302416,7.1,In the Shadows,Gali Guleiyan,0,2017,117,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,314
+tt3209826,3.9,Patel Ki Punjabi Shaadi,Patel Ki Punjabi Shaadi,0,2017,120,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,276
+tt3224288,6.9,Beyond the Clouds,Beyond the Clouds,0,2017,120,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1611
+tt3338188,4.6,Jia aur Jia,Jia aur Jia,0,2017,93,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,140
+tt3405236,6.8,Raees,Raees,0,2017,143,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,37609
+tt3611266,5.9,Bank Chor,Bank Chor,0,2017,120,Action|Comedy|Thriller,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2164
+tt4129428,6.4,Jagga Jasoos,Jagga Jasoos,0,2017,161,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8162
+tt4287778,4.4,Night,Shab,0,2017,108,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,196
+tt4307132,8.3,G Kutta Se,G Kutta Se,0,2017,104,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+tt4493550,5.9,Flat 211,Flat 211,0,2017,105,Crime|Mystery|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,64
+tt4552486,3.9,Dobaara: See Your Evil,Dobaara: See Your Evil,0,2017,106,Horror|Mystery,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,291
+tt4640206,8.6,Sachin,Sachin,0,2017,138,Documentary|Sport,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7239
+tt4909752,5.7,Rangoon,Rangoon,0,2017,170,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3393
+tt4910010,8.2,YADVI: The Dignified Princess,YADVI: The Dignified Princess,0,2017,107,Biography|Drama|History,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,28
+tt4977530,6.7,Viceroy's House,Viceroy's House,0,2017,106,Biography|Drama|History,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,5993
+tt5046500,5.2,Mantra,Mantra,0,2017,90,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,165
+tt5456546,3.8,Twins 2,Judwaa 2,0,2017,145,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7418
+tt5460276,7.1,Kaabil,Kaabil,0,2017,139,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,22695
+tt5463608,6.5,J.D.,J.D.,0,2017,127,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+tt5472374,5.8,Meri Pyaari Bindu,Meri Pyaari Bindu,0,2017,117,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3266
+tt5474042,4.3,Half Girlfriend,Half Girlfriend,0,2017,135,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5577
+tt5502766,6.1,Phillauri,Phillauri,0,2017,138,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3179
+tt5525846,5.7,Yeh Hai India,Yeh Hai India,0,2017,128,Action|Adventure|Drama,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,169
+tt5542802,4.1,Raabta,Raabta,0,2017,147,Action|Adventure|Drama,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2667
+tt5543746,4.5,Maatr,Maatr,0,2017,113,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,321
+tt5544662,3.5,Sweetiee Weds NRI,Sweetiee Weds NRI,0,2017,116,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,212
+tt5613834,6.3,A Gentleman,A Gentleman,0,2017,145,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4400
+tt5617172,5.7,Qaidi Band,Qaidi Band,0,2017,119,Drama|Music,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,257
+tt5690142,7.3,Mom,Mom,0,2017,146,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,7355
+tt5697870,6.2,Lucknow Central,Lucknow Central,0,2017,133,Action|Drama|Music,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2294
+tt5742874,4.9,Sarkar 3,Sarkar 3,0,2017,130,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1688
+tt5743888,2.5,Julie 2,Julie 2,0,2017,159,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,250
+tt5745450,5.7,Chef,Chef,0,2017,133,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1781
+tt5756052,5.6,Jeena Isi Ka Naam Hai,Jeena Isi Ka Naam Hai,0,2017,173,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,82
+tt5764024,5.1,Okay Darling,OK Jaanu,0,2017,135,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3350
+tt5764096,7.8,Hindi Medium,Hindi Medium,0,2017,132,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18315
+tt5775220,4,Noor,Noor,0,2017,117,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1287
+tt5784860,3.7,Aksar 2,Aksar 2,0,2017,127,Crime|Drama|Mystery,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,363
+tt5785116,5.5,Begum Jaan,Begum Jaan,0,2017,128,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2347
+tt5785170,7.2,Toilet - Ek Prem Katha,Toilet - Ek Prem Katha,0,2017,155,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15738
+tt5785200,2.7,Machine,Machine,0,2017,148,Action|Mystery|Romance,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,636
+tt5882970,4,Tubelight,Tubelight,0,2017,136,Drama|War,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,12911
+tt5896934,2.9,Aa Gaya Hero,Aa Gaya Hero,0,2017,123,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,304
+tt5956100,6,Tiger Zinda Hai,Tiger Zinda Hai,0,2017,161,Action|Adventure|Thriller,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,19760
+tt5997666,5.3,Jab Harry Met Sejal,Jab Harry Met Sejal,0,2017,143,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,17317
+tt6033536,5.2,Dear Maya,Dear Maya,0,2017,111,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,276
+tt6058394,6.5,Anaarkali of Aarah,Anaarkali of Aarah,0,2017,113,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1132
+tt6080746,8.3,Raag Desh,Raag Desh,0,2017,135,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,341
+tt6108090,7.9,Secret Superstar,Secret Superstar,0,2017,150,Drama|Music,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,17698
+tt6117702,3.4,Munna Michael,Munna Michael,0,2017,140,Action|Drama|Music,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2396
+tt6143422,8,Dark wind,Dark wind,0,2017,95,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,565
+tt6170954,6.3,Naam Shabana,Naam Shabana,0,2017,147,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4791
+tt6173826,5.4,Guest iin London,Guest iin London,0,2017,132,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1279
+tt6265988,5.3,Bhoomi,Bhoomi,0,2017,136,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1519
+tt6272828,5.6,Mubarakan,Mubarakan,0,2017,156,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3109
+tt6277440,6.2,Badrinath Ki Dulhania,Badrinath Ki Dulhania,0,2017,139,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,8868
+tt6296236,6.7,Running Shaadi,Running Shaadi,0,2017,114,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2268
+tt6299040,7.6,The Ghazi Attack,The Ghazi Attack,0,2017,116,Action|Thriller|War,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10332
+tt6334874,4.5,Coffee with D,Coffee with D,0,2017,123,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,563
+tt6349528,5,Ek Haseena Thi Ek Deewana Tha,Ek Haseena Thi Ek Deewana Tha,0,2017,105,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+tt6352548,5.5,Poster Boys,Poster Boys,0,2017,128,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1272
+tt6395306,7.6,Union Leader,Union Leader,0,2017,106,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1503
+tt6405126,5.3,Simran,Simran,0,2017,124,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2681
+tt6467380,6.8,Hind Ka Napak Ko Jawab,Hind Ka Napak Ko Jawab,0,2017,130,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3960
+tt6467738,6.2,Irada,Irada,0,2017,109,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1024
+tt6471054,7,Ajji,Ajji,0,2017,104,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,602
+tt6484982,7.7,Newton,Newton,0,2017,106,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13697
+tt6499258,5.4,Wedding Anniversary,Wedding Anniversary,0,2017,108,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,53
+tt6512784,4.2,Haseena Parkar,Haseena Parkar,0,2017,135,Biography|Crime|Thriller,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,976
+tt6514010,7,Long Live Brij Mohan,Brij Mohan Amar Rahe,0,2017,105,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2533
+tt6537508,5.5,Behen Hogi Teri,Behen Hogi Teri,0,2017,128,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1514
+tt6611040,7.3,Bhanwarey,Bhanwarey,0,2017,120,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51
+tt6620324,6,Indu Sarkar,Indu Sarkar,0,2017,139,Drama|History|Thriller,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1287
+tt6642396,6,Jattu Engineer,Jattu Engineer,0,2017,139,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3309
+tt6711660,6.9,Babumoshai Bandookbaaz,Babumoshai Bandookbaaz,0,2017,122,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1508
+tt6712014,6.5,Fukrey Returns,Fukrey Returns,0,2017,141,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4105
+tt6791730,7,Tumhari Sulu,Tumhari Sulu,0,2017,150,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4027
+tt6926486,6.3,Daddy,Daddy,0,2017,134,Action|Biography|Crime,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1369
+tt6967980,7.5,Bareilly Ki Barfi,Bareilly Ki Barfi,0,2017,116,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,14907
+tt6971752,6.9,Shubh Mangal Saavdhan,Shubh Mangal Saavdhan,0,2017,119,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6815
+tt6978268,7,Omerta,Omerta,0,2017,98,Action|Biography|Crime,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,660
+tt6997642,6.9,Ribbon,Ribbon,0,2017,106,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,444
+tt7154994,7.4,Ranchi Diaries,Ranchi Diaries,0,2017,93,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,69
+tt7180544,8.1,The Brawler,Mukkabaaz,0,2017,154,Action|Drama|Sport,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5434
+tt7340684,6.2,The Final Exit,The Final Exit,0,2017,119,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,40
+tt7341406,6.4,Rukh,Rukh,0,2017,106,Drama|Mystery,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,383
+tt7399470,7,Qarib Qarib Singlle,Qarib Qarib Singlle,0,2017,125,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4707
+tt7469726,7.6,Shaadi Mein Zaroor Aana,Shaadi Mein Zaroor Aana,0,2017,137,Drama|Family|Romance,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,10334
+tt7471004,6.8,The House Next Door,The House Next Door,0,2017,137,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1655
+tt7549484,4.5,Firangi,Firangi,0,2017,158,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,913
+tt7571718,8,Panchlait,Panchlait,0,2017,\N,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+tt7585620,7,Dil Jo Na Keh Saka,Dil Jo Na Keh Saka,0,2017,130,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,77
+tt7722484,3.9,Sallu Ki Shaadi,Sallu Ki Shaadi,0,2017,109,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,28
+tt1890363,6.8,Buddha in a Traffic Jam,Buddha in a Traffic Jam,0,2016,114,Crime|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1867
+tt2009592,5.7,The Blueberry Hunt,The Blueberry Hunt,0,2016,110,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,186
+tt2137241,5,Rock On 2,Rock On 2,0,2016,143,Drama|Music,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1768
+tt2909396,2.9,Santa Banta Pvt Ltd,Santa Banta Pvt Ltd,0,2016,112,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,193
+tt2939912,6.7,Traffic,Traffic,0,2016,104,Adventure|Drama|Thriller,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2317
+tt3410408,6.8,Rocky Handsome,Rocky Handsome,0,2016,119,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6582
+tt3453964,6.2,Jugni,Jugni,0,2016,115,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,126
+tt3495026,7.1,Fan,Fan,0,2016,138,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,39877
+tt3590416,5.6,Global Baba,Global Baba,0,2016,120,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,163
+tt3679060,5.1,Kapow,Dishoom,0,2016,124,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5976
+tt3726012,2.3,Mastizaade,Mastizaade,0,2016,119,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2343
+tt3771536,6.2,Shivaay,Shivaay,0,2016,153,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,9161
+tt3840534,4.2,Junooniyat,Junooniyat,0,2016,155,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,610
+tt3859980,5.7,Mohenjo Daro,Mohenjo Daro,0,2016,155,Action|Adventure|Drama,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9764
+tt3862004,5.5,Fuddu,Fuddu,0,2016,100,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,132
+tt4022278,4.7,Fever,Fever,0,2016,123,Crime|Mystery,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,572
+tt4169250,7.7,M.S. Dhoni: The Untold Story,M.S. Dhoni: The Untold Story,0,2016,184,Biography|Drama|Sport,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,29352
+tt4262516,3.1,Sanam Re,Sanam Re,0,2016,120,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2622
+tt4340180,4,Direct Ishq,Direct Ishq,0,2016,130,Action|Comedy|Romance,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,62
+tt4358344,7.3,Rough Book,Rough Book,0,2016,100,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,146
+tt4365060,5.7,7 Hours to Go,7 Hours to Go,0,2016,115,Crime|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,357
+tt4387040,8,Airlift,Airlift,0,2016,130,Drama|History,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,49498
+tt4399594,5.4,Obsession,Fitoor,0,2016,131,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3991
+tt4434004,7.8,Udta Punjab,Udta Punjab,0,2016,148,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,23995
+tt4505006,6.1,Shortcut Safari,Shortcut Safari,0,2016,101,Adventure|Drama|Mystery,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,40
+tt4559006,5.8,Ae Dil Hai Mushkil,Ae Dil Hai Mushkil,0,2016,158,Drama|Music|Musical,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,18998
+tt4579982,4.4,Ishq Click,Ishq Click,0,2016,165,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,83
+tt4600778,6.5,Chalk N Duster,Chalk N Duster,0,2016,130,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,564
+tt4642936,5,Warrior Savitri,Warrior Savitri,0,2016,136,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,270
+tt4659548,6.8,Rebellious Flower,Rebellious Flower,0,2016,109,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,230
+tt4675030,3.7,Great Grand Masti,Great Grand Masti,0,2016,134,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2020
+tt4683366,6.4,Ghayal Once Again,Ghayal Once Again,0,2016,127,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4707
+tt4744086,5.8,Ki & Ka,Ki & Ka,0,2016,126,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4853
+tt4807830,6.8,Lipstick Under My Burkha,Lipstick Under My Burkha,0,2016,117,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5583
+tt4814290,7.2,Te3n,Te3n,0,2016,136,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,10451
+tt4832640,7,Sultan,Sultan,0,2016,170,Action|Drama|Sport,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,34328
+tt4857886,6.4,Do Lafzon Ki Kahani,Do Lafzon Ki Kahani,0,2016,128,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1201
+tt4864932,5.2,Baaghi,Baaghi,0,2016,133,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6088
+tt4900716,7.7,Kapoor & Sons,Kapoor & Sons,0,2016,132,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,20586
+tt4906984,5.8,Azhar,Azhar,0,2016,130,Biography|Drama|Sport,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,4887
+tt4940456,4.6,Mirzya,Mirzya,0,2016,129,Action|Adventure|Drama,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1581
+tt4979082,5.6,Jai Gangaajal,Jai Gangaajal,0,2016,149,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2308
+tt4979160,3.8,Ishq Forever,Ishq Forever,0,2016,125,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,89
+tt5074352,8.4,Dangal,Dangal,0,2016,161,Action|Biography|Drama,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,131338
+tt5108476,3.9,Befikre,Befikre,0,2016,130,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,6490
+tt5120640,7.2,Sarbjit,Sarbjit,0,2016,131,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3778
+tt5130348,5.8,Love Shagun,Love Shagun,0,2016,120,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,91
+tt5156746,6.2,Force 2,Force 2,0,2016,127,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4340
+tt5165344,7.1,Rustom,Rustom,0,2016,148,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,20764
+tt5197544,5.3,Baar Baar Dekho,Baar Baar Dekho,0,2016,141,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5608
+tt5209420,4.4,LoveShhuda,LoveShhuda,0,2016,133,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,511
+tt5216810,6,Bollywood Diaries,Bollywood Diaries,0,2016,123,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,233
+tt5227468,2.9,Beiimaan Love,Beiimaan Love,0,2016,120,Drama|Romance|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,354
+tt5235880,3.2,A Flying Jatt,A Flying Jatt,0,2016,151,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3165
+tt5240748,5.6,Brahman Naman,Brahman Naman,0,2016,95,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1575
+tt5286444,7.7,Neerja,Neerja,0,2016,122,Biography|Drama|Thriller,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,19046
+tt5290620,1.9,Kyaa Kool Hain Hum 3,Kyaa Kool Hain Hum 3,0,2016,124,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3899
+tt5310090,7.6,Saala Khadoos,Saala Khadoos,0,2016,109,Action|Drama|Sport,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,10507
+tt5313980,4.3,Tere Bin Laden: Dead Or Alive,Tere Bin Laden: Dead Or Alive,0,2016,104,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,771
+tt5343678,5.7,Moh Maya Money,Moh Maya Money,0,2016,108,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,344
+tt5456810,5.8,Murari the Mad Gentleman,Murari the Mad Gentleman,0,2016,\N,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+tt5472758,6.4,Happy Bhag Jayegi,Happy Bhag Jayegi,0,2016,126,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4633
+tt5518128,4.3,Love Games,Love Games,0,2016,114,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,744
+tt5571734,8.2,Pink,Pink,0,2016,136,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,33902
+tt5600714,8,Laal Rang,Laal Rang,0,2016,147,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3741
+tt5615116,6.5,Dear Dad,Dear Dad,0,2016,95,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,277
+tt5632164,5.3,Veerappan,Veerappan,0,2016,125,Action|Biography|Crime,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,590
+tt5637188,5.7,Saat Uchakkey,Saat Uchakkey,0,2016,139,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,586
+tt5638474,4.3,Wajah Tum Ho,Wajah Tum Ho,0,2016,136,Drama|Mystery|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1000
+tt5638500,4.1,1920 London,1920 London,0,2016,120,Horror|Mystery,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1373
+tt5639388,4.5,Raaz Reboot,Raaz Reboot,0,2016,128,Horror|Mystery|Romance,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1543
+tt5662932,7.3,Raman Raghav 2.0,Raman Raghav 2.0,0,2016,133,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,11202
+tt5713232,7.5,Madaari,Madaari,0,2016,133,Adventure|Drama|Thriller,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,11411
+tt5717110,4.8,Tum Bin 2,Tum Bin 2,0,2016,147,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1028
+tt5743656,6.9,Phobia,Phobia,0,2016,112,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2402
+tt5752374,5.7,Shorgul,Shorgul,0,2016,132,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,176
+tt5752458,6.4,Hai Apna Dil Toh Awara,Hai Apna Dil Toh Awara,0,2016,120,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+tt5755606,5,Banjo,Banjo,0,2016,137,Action|Drama|Music,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,923
+tt5760490,5,Fredrick,Fredrick,0,2016,129,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12
+tt5784778,7.1,Dil Toh Deewana Hai,Dil Toh Deewana Hai,0,2016,135,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,16
+tt5909308,7.4,Days of Tafree,Days of Tafree,0,2016,155,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,221
+tt5928576,6.1,Wah Taj,Wah Taj,0,2016,125,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,72
+tt5933706,3.2,Saansein: The Last Breath,Saansein: The Last Breath,0,2016,101,Horror|Romance,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,101
+tt5943306,4.9,Freaky Ali,Freaky Ali,0,2016,120,Comedy|Sport,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2373
+tt5946128,7.6,Dear Zindagi,Dear Zindagi,0,2016,151,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,32790
+tt5997928,7.1,Hotel Salvation,Hotel Salvation,0,2016,102,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1487
+tt6040012,6.9,MSG the Warrior: Lion Heart,MSG the Warrior: Lion Heart,0,2016,120,Adventure|Fantasy|Sci-Fi,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7323
+tt6041458,5.4,Tutak Tutak Tutiya,Tutak Tutak Tutiya,0,2016,138,Comedy|Horror,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,658
+tt6046994,4,Dongri Ka Raja,Dongri Ka Raja,0,2016,139,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,135
+tt6118134,4.9,Anna,Anna,0,2016,142,Biography,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+tt6206564,7.5,Trapped,Trapped,0,2016,105,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,8295
+tt6278732,7.5,Motu Patlu: King of Kings,Motu Patlu: King of Kings,0,2016,110,Adventure|Comedy,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94
+tt2140465,7.7,Tanu Weds Manu Returns,Tanu Weds Manu Returns,0,2015,128,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,24338
+tt2140465,7.7,Tanu Weds Manu Returns,Tanu Weds Manu Returns,0,2015,128,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,24338
+tt2190820,4.6,Charlie Kay Chakkar Mein,Charlie Kay Chakkar Mein,0,2015,102,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,152
+tt2202086,5.8,Ab Tak Chhappan 2,Ab Tak Chhappan 2,0,2015,106,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1194
+tt2361746,6.4,Haraamkhor,Haraamkhor,0,2015,90,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3144
+tt2424988,7.1,Gabbar is Back,Gabbar is Back,0,2015,128,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21430
+tt2424988,7.1,Gabbar is Back,Gabbar is Back,0,2015,128,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21430
+tt2585654,4.5,Mere Genie Uncle,Mere Genie Uncle,0,2015,\N,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+tt2614722,6.6,Umrika,Umrika,0,2015,98,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1034
+tt2708644,3.6,I Love NY,I Love NY,0,2015,127,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,499
+tt2800452,3.8,Dilliwaali Zaalim Girlfriend,Dilliwaali Zaalim Girlfriend,0,2015,121,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,163
+tt2872050,5.4,Jai Jawaan Jai Kisaan,Jai Jawaan Jai Kisaan,0,2015,100,Biography|Drama|History,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,24
+tt2962230,3.9,Kaagaz Ke Fools,Kaagaz Ke Fools,0,2015,109,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109
+tt2976182,3.3,Roy,Roy,0,2015,146,Action|Drama|Mystery,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,6789
+tt2979920,5.7,Bombay Velvet,Bombay Velvet,0,2015,149,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5116
+tt3043252,7.6,Parched,Parched,0,2015,116,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4287
+tt3148502,7.2,Tamasha,Tamasha,0,2015,139,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,20610
+tt3159708,4.2,Welcome Back,Welcome Back,0,2015,152,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5133
+tt3255586,3.9,P Se PM Tak,P Se PM Tak,0,2015,123,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+tt3337550,7.6,Rahasya,Rahasya,0,2015,123,Mystery|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,3950
+tt3368222,7,Angry Indian Goddesses,Angry Indian Goddesses,0,2015,115,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2487
+tt3398048,4.1,Tevar,Tevar,0,2015,157,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2756
+tt3422462,4.6,Bangistan,Bangistan,0,2015,135,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,992
+tt3447364,7.6,Detective Byomkesh Bakshy!,Detective Byomkesh Bakshy!,0,2015,139,Action|Mystery|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,14674
+tt3449292,8,Manjhi: The Mountain Man,Manjhi: The Mountain Man,0,2015,120,Adventure|Biography|Drama,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,16622
+tt3469244,5.8,Phantom,Phantom,0,2015,136,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,7913
+tt3477214,6.2,Kaun Kitney Paani Mein,Kaun Kitney Paani Mein,0,2015,112,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,417
+tt3483612,6.7,Hamari Adhuri Kahani,Hamari Adhuri Kahani,0,2015,129,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4788
+tt3495030,7.5,Dum Laga Ke Haisha,Dum Laga Ke Haisha,0,2015,110,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,15706
+tt3547616,3.8,All Is Well,All Is Well,0,2015,126,Adventure|Comedy|Drama,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1399
+tt3595298,4.6,Prem Ratan Dhan Payo,Prem Ratan Dhan Payo,0,2015,164,Action|Drama|Musical,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,16087
+tt3619710,5.1,Bhaag Johnny,Bhaag Johnny,0,2015,118,Action|Fantasy|Thriller,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,851
+tt3666258,6.5,Coffee Bloom,Coffee Bloom,0,2015,90,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,98
+tt3678782,7.4,City of Revenge,Badlapur,0,2015,134,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20021
+tt3679000,5.5,Any Body Can Dance 2,Any Body Can Dance 2,0,2015,154,Biography|Drama|Music,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,4750
+tt3693936,7.2,Once Upon a Time in Bihar,Once Upon a Time in Bihar,0,2015,122,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,171
+tt3696192,5.1,Singh Is Bliing,Singh Is Bliing,0,2015,141,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6976
+tt3735246,7.2,Bajirao Mastani,Bajirao Mastani,0,2015,158,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,29141
+tt3742284,7.2,NH10,NH10,0,2015,115,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11378
+tt3767372,7.6,Piku,Piku,0,2015,123,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,25692
+tt3797478,7.3,Main Hoon Rajinikanth,Main Hoon Rajinikanth,0,2015,127,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+tt3802576,6.5,Brothers,Brothers,0,2015,156,Action|Drama|Sport,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,10873
+tt3836958,6.8,Shamitabh,Shamitabh,0,2015,155,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6555
+tt3848892,8,Baby,Baby,0,2015,159,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,49426
+tt3848938,3.7,Mr. X,Mr. X,0,2015,133,Action|Crime|Sci-Fi,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1554
+tt3863552,8,Bajrangi Bhaijaan,Bajrangi Bhaijaan,0,2015,163,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,65877
+tt3886444,4,Khamoshiyan,Khamoshiyan,0,2015,122,Drama|Horror|Romance,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1074
+tt3948240,3.8,Second Hand Husband,Second Hand Husband,0,2015,105,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,141
+tt4007558,3.6,Shaandaar,Shaandaar,0,2015,144,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4352
+tt4023852,4.3,Welcome 2 Karachi,Welcome to Karachi,0,2015,131,Action|Comedy|War,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1013
+tt4024944,6.3,Main Aur Charles,Main Aur Charles,0,2015,119,Action|Biography|Crime,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1488
+tt4088588,8,Rainbow,Dhanak,0,2015,106,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3114
+tt4094820,5.3,Crazy Cukkad Family,Crazy Cukkad Family,0,2015,\N,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+tt4107858,6,MSG: The Messenger of God,MSG: The Messenger of God,0,2015,197,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11096
+tt4110568,6.8,Dil Dhadakne Do,Dil Dhadakne Do,0,2015,170,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,13084
+tt4117066,7.2,Meeruthiya Gangsters,Meeruthiya Gangsters,0,2015,129,Comedy|Crime,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,527
+tt4271730,3.7,Alone,Alone,0,2015,133,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1465
+tt4272420,2.5,Kuch Kuch Locha Hai,Kuch Kuch Locha Hai,0,2015,143,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,707
+tt4302956,5.7,Kis Kisko Pyaar Karoon,Kis Kisko Pyaar Karoon,0,2015,133,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5251
+tt4309284,6.6,The Silent Heroes,The Silent Heroes,0,2015,115,Adventure|Drama|Family,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,57
+tt4323504,5.8,Jazbaa,Jazbaa,0,2015,119,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3021
+tt4332114,4.6,Dolly Ki Doli,Dolly Ki Doli,0,2015,98,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2543
+tt4333674,7,Hunterrr,Hunterrr,0,2015,141,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5196
+tt4335698,2.3,Honour Killing,Honour Killing,0,2015,\N,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,7
+tt4338154,5.5,Hawaizaada,Hawaizaada,0,2015,148,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1501
+tt4354740,6.2,Dharam Sankat Mein,Dharam Sankat Mein,0,2015,129,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1822
+tt4355892,2.7,Mumbai Can Dance Saalaa,Mumbai Can Dance Saalaa,0,2015,135,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+tt4373886,5.1,Sharafat Gayi Tel Lene,Sharafat Gayi Tel Lene,0,2015,108,Comedy|Drama|Mystery,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,250
+tt4384270,7.8,Take It Easy,Take It Easy,0,2015,\N,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+tt4386684,5.9,31st October,31st October,0,2015,109,Action|Drama|History,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,205
+tt4430136,7.3,Pyaar Ka Punchnama 2,Pyaar Ka Punchnama 2,0,2015,137,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,13059
+tt4430212,8.2,Drishyam,Drishyam,0,2015,163,Crime|Drama|Mystery,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,58340
+tt4467202,3.6,Hero,Hero,0,2015,145,Action|Drama|Musical,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2041
+tt4467262,4.9,Katti Batti,Katti Batti,0,2015,135,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2543
+tt4500734,3.7,Ek Paheli Leela,Ek Paheli Leela,0,2015,145,Mystery|Romance|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1578
+tt4501576,2.6,Dirty Politics,Dirty Politics,0,2015,130,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,534
+tt4511416,4.6,Badmashiyaan,Badmashiyaan,0,2015,128,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,124
+tt4512230,3.3,Hey Bro,Hey Bro,0,2015,113,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,119
+tt4513812,7.5,Gour Hari Dastaan: The Freedom File,Gour Hari Dastaan: The Freedom File,0,2015,114,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,435
+tt4535650,5.2,Dilwale,Dilwale,0,2015,158,Action|Comedy|Romance,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,29502
+tt4541102,4.9,Uvaa,Uvaa,0,2015,138,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,130
+tt4556848,5.1,Barkhaa,Barkhaa,0,2015,127,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,283
+tt4565796,4.9,Four Pillars of Basement,Four Pillars of Basement,0,2015,134,Action|Mystery|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,17
+tt4581032,5.3,Luv U Alia,Luv U Alia,0,2015,130,Family|Romance,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,77
+tt4581722,6.7,Ishq Ke Parindey,Ishq Ke Parindey,0,2015,120,Music|Romance,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,49
+tt4594848,6.9,Luckhnowi Ishq,Luckhnowi Ishq,0,2015,127,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+tt4610308,4.9,Ishqedarriyaan,Ishqedarriyaan,0,2015,132,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,133
+tt4635372,8.1,Masaan,Masaan,0,2015,109,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19904
+tt4651394,3.9,Wedding Pullav,Wedding Pullav,0,2015,124,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,170
+tt4654760,5.3,Sabki Bajegi Band,Sabki Bajegi Band,0,2015,108,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+tt4671212,3,NH-8: Road to Nidhivan,NH-8: Road to Nidhivan,0,2015,95,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,31
+tt4684028,5.3,Guddu Rangeela,Guddu Rangeela,0,2015,124,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,800
+tt4707940,5.4,Miss Tanakpur Haazir Ho,Miss Tanakpur Haazir Ho,0,2015,154,Comedy|Crime|Family,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,300
+tt4760750,4.1,Bezubaan Ishq,Bezubaan Ishq,0,2015,128,Musical|Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,56
+tt4760900,7,The World It Is,Aisa Yeh Jahaan,0,2015,120,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+tt4818930,7.2,Waiting,Waiting,0,2015,92,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1492
+tt4844708,7.4,Shackle,Shackle,0,2015,99,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+tt4853926,4.7,Guddu Ki Gun,Guddu Ki Gun,0,2015,130,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,541
+tt4859310,4.1,Thoda Lutf Thoda Ishq,Thoda Lutf Thoda Ishq,0,2015,\N,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,52
+tt4865436,4.5,Hate Story 3,Hate Story 3,0,2015,126,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2775
+tt4897908,4.2,Calendar Girls,Calendar Girls,0,2015,131,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,766
+tt4916048,6.8,Island City,Island City,0,2015,108,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,291
+tt4921860,6.8,MSG 2 the Messenger,MSG 2 the Messenger,0,2015,134,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,8389
+tt4934950,8.2,Talvar,Talvar,0,2015,132,Crime|Drama|Mystery,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,26612
+tt4949324,6.9,Mohalla Assi,Mohalla Assi,0,2015,150,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1369
+tt4994210,5.4,Sorry Daddy,Sorry Daddy,0,2015,\N,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+tt4995402,5.1,Bumper Draw,Bumper Draw,0,2015,130,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+tt5005684,8.4,Nil Battey Sannata,Nil Battey Sannata,0,2015,100,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4530
+tt5021968,7,Chinar Daastaan-E-Ishq,Chinar Daastaan-E-Ishq,0,2015,116,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,58
+tt5052972,5.6,Yaara Silly Silly,Yaara Silly Silly,0,2015,108,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,214
+tt5121000,7.8,Aligarh,Aligarh,0,2015,114,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4873
+tt5151622,3.7,Ranbanka,Ranbanka,0,2015,98,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118
+tt5207116,5.5,X: Past Is Present,X: Past Is Present,0,2015,105,Drama|Mystery|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,498
+tt0403935,3.2,Action Jackson,Action Jackson,0,2014,144,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2955
+tt0839742,7.2,Bhopal: A Prayer for Rain,Bhopal: A Prayer for Rain,0,2014,96,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1860
+tt1188982,5.2,Jai Ho,Jai Ho,0,2014,135,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15868
+tt1867064,6.8,Strings of Passion,Strings of Passion,0,2014,100,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+tt2063745,7.4,Kya Dilli Kya Lahore,Kya Dilli Kya Lahore,0,2014,98,Drama|History|War,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1761
+tt2191164,7.5,Station,Station,0,2014,103,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,89
+tt2208248,2.7,Machhli Jal Ki Rani Hai,Machhli Jal Ki Rani Hai,0,2014,120,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,136
+tt2216852,5.2,Main Aur Mr. Riight,Main Aur Mr. Riight,0,2014,130,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,323
+tt2283894,6.5,Riyasat,Riyasat,0,2014,80,Crime,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+tt2309764,5.7,Singham Returns,Singham Returns,0,2014,142,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6745
+tt2317135,4.6,Tamanchey: Pyar Mein Dil Pe Maar De Goli,Tamanchey: Pyar Mein Dil Pe Maar De Goli,0,2014,113,Crime|Romance,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,275
+tt2338151,8.1,PK,PK,0,2014,153,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,143605
+tt2372222,5.3,Kick,Kick,0,2014,146,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22323
+tt2372678,6.9,2 States,2 States,0,2014,149,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,22060
+tt2392447,5.7,Finger,Ungli,0,2014,114,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3208
+tt2429930,5.6,Khwaabb,Khwaabb,0,2014,90,Drama|Romance|Sport,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,62
+tt2461132,5.1,Happy New Year,Happy New Year,0,2014,180,Action|Comedy|Music,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,32113
+tt2556308,7.2,Holiday,Holiday,0,2014,160,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,23733
+tt2573750,6.1,Gulaab Gang,Gulaab Gang,0,2014,139,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1973
+tt2574698,2.3,Gunday,Gunday,0,2014,152,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,56670
+tt2609218,3.8,Ragini MMS 2,Ragini MMS 2,0,2014,119,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2521
+tt2612924,5.3,Lucky Kabootar,Lucky Kabootar,0,2014,117,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66
+tt2630076,4.7,Super Nani,Super Nani,0,2014,133,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,351
+tt2675978,7.1,Dedh Ishqiya,Dedh Ishqiya,0,2014,152,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,6604
+tt2679480,7.2,Sulemani Keeda,Sulemani Keeda,0,2014,89,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2419
+tt2691010,2.7,Mumbai 125 KM 3D,Mumbai 125 KM 3D,0,2014,100,Drama|Horror|Mystery,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,169
+tt2727028,5,Total Chaos,Total Siyapaa,0,2014,108,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2726
+tt2762334,5.2,I'm Your Hero,Main Tera Hero,0,2014,128,Action|Comedy|Romance,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6907
+tt2767712,4.7,Badlapur Boys,Badlapur Boys,0,2014,123,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,113
+tt2871010,5.5,Sonali Cable,Sonali Cable,0,2014,127,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,800
+tt2876408,3.6,Calling Mr. Joe B Carvalho,Calling Mr. Joe B Carvalho,0,2014,130,Action|Comedy|Mystery,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,450
+tt2905838,5.5,Bang Bang,Bang Bang,0,2014,153,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20431
+tt2907156,5.1,Paranthe Wali Gali,Paranthe Wali Gali,0,2014,101,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,83
+tt2929690,7.2,Margarita with a Straw,Margarita with a Straw,0,2014,100,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3045
+tt2951576,4.1,One by Two,One by Two,0,2014,139,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,688
+tt2963974,5.7,M Cream,M Cream,0,2014,112,Adventure|Comedy|Drama,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,590
+tt2976176,8,Lakshmi,Lakshmi,0,2014,115,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1240
+tt2978626,4.5,It's Entertainment,It's Entertainment,0,2014,140,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6885
+tt2980794,7.6,Highway,Highway,0,2014,133,Crime|Drama|Romance,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,24037
+tt2998196,5.4,Kuku Mathur Ki Jhand Ho Gayi,Kuku Mathur Ki Jhand Ho Gayi,0,2014,109,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,229
+tt3001638,6.8,Mary Kom,Mary Kom,0,2014,122,Action|Biography|Drama,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9307
+tt3017412,5.4,Happy Ending,Happy Ending,0,2014,135,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3136
+tt3019620,7.6,Titli,Titli,0,2014,116,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3677
+tt3021244,6.4,Chaarfutiya Chhokare,Chaarfutiya Chhokare,0,2014,119,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,24
+tt3036740,1.8,Humshakals,Humshakals,0,2014,159,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7216
+tt3038772,4.3,Kaanchi,Kaanchi,0,2014,151,Drama|Musical|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,539
+tt3056632,7.3,Manjunath,Manjunath,0,2014,130,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,462
+tt3142232,5.3,Heropanti,Heropanti,0,2014,146,Action|Romance,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7438
+tt3142688,5.8,Finding Fanny,Finding Fanny,0,2014,102,Adventure|Comedy|Drama,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5897
+tt3166542,6.8,W,W,0,2014,137,Crime|Musical|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,43
+tt3169676,3.5,Meinu Ek Ladki Chaahiye,Meinu Ek Ladki Chaahiye,0,2014,\N,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+tt3173910,6.8,Hasee Toh Phasee,Hasee Toh Phasee,0,2014,141,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,12622
+tt3175038,6.4,Ek Villain,Ek Villain,0,2014,129,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14964
+tt3290688,4.6,Revolver Rani,Revolver Rani,0,2014,132,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1483
+tt3302962,5.6,Shaadi Ke Side Effects,Shaadi Ke Side Effects,0,2014,145,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3613
+tt3303416,6.1,Ya Rab,Ya Rab,0,2014,120,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,270
+tt3309844,4.8,Titoo MBA,Titoo MBA,0,2014,111,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,88
+tt3334348,5.2,Heartless,Heartless,0,2014,131,Drama|Family|Romance,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,429
+tt3359290,5.5,Bobby Jasoos,Bobby Jasoos,0,2014,121,Comedy|Drama|Thriller,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1922
+tt3369670,6.7,Children of War,Children of War,0,2014,160,Drama|History|War,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,848
+tt3380264,4.3,Kill Dil,Kill Dil,0,2014,127,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3641
+tt3382148,2.7,Yaariyan,Yaariyan,0,2014,145,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2891
+tt3390572,8.1,Haider,Haider,0,2014,160,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,46912
+tt3398052,6.1,Invitation of Love,Daawat-e-Ishq,0,2014,118,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5103
+tt3426144,6.8,Babloo Happy Hai,Babloo Happy Hai,0,2014,113,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,76
+tt3449320,4.9,Darr @ the Mall,Darr @ the Mall,0,2014,124,Horror|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,872
+tt3465488,2.8,Karle Pyaar Karle,Karle Pyaar Karle,0,2014,110,Action|Romance,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,111
+tt3483596,3.4,O Teri,O Teri,0,2014,107,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,527
+tt3483646,5.5,Bewakoofiyaan,Bewakoofiyaan,0,2014,119,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3455
+tt3483712,6.1,Raja Natwarlal,Raja Natwarlal,0,2014,141,Crime|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3666
+tt3495000,7.3,Mardaani,Mardaani,0,2014,113,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9623
+tt3501994,7.4,Hawaa Hawaai,Hawaa Hawaai,0,2014,120,Drama|Family|Sport,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1560
+tt3514330,5.1,Youngistaan,Youngistaan,0,2014,133,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1742
+tt3524410,3.8,Yeh Hai Bakrapur,Yeh Hai Bakrapur,0,2014,95,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,240
+tt3531604,3.6,Gang of Ghosts,Gang of Ghosts,0,2014,128,Comedy|Horror,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,320
+tt3531852,6.7,Bhoothnath Returns,Bhoothnath Returns,0,2014,155,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4480
+tt3539966,5.2,Dishkiyaoon,Dishkiyaoon,0,2014,119,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,918
+tt3554418,6.4,Khoobsurat,Khoobsurat,0,2014,130,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6981
+tt3565354,4.3,Karar: The Deal,Karar: The Deal,0,2014,115,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,53
+tt3585758,6.5,Kahin Hai Mera Pyar,Kahin Hai Mera Pyar,0,2014,138,Drama|Musical|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,13
+tt3619772,4.4,Hate Story 2,Hate Story 2,0,2014,130,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1903
+tt3619854,3.1,Creature,Creature,0,2014,134,Action|Horror|Sci-Fi,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1160
+tt3636776,6.3,Samrat & Co.,Samrat & Co.,0,2014,125,Mystery|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1013
+tt3640942,5.6,Koyelaanchal,Koyelaanchal,0,2014,145,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,240
+tt3645014,3.2,The Xpose,The Xpose,0,2014,113,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1419
+tt3672618,6.2,Dekh Tamasha Dekh,Dekh Tamasha Dekh,0,2014,110,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,273
+tt3678938,6,The Bride of Humpty Sharma,Humpty Sharma Ki Dulhania,0,2014,133,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,10065
+tt3681414,6.2,Purani Jeans,Purani Jeans,0,2014,137,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,683
+tt3683702,4.7,Fugly,Fugly,0,2014,134,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,931
+tt3709344,7.3,CityLights,City Lights,0,2014,126,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4141
+tt3716142,4.9,Lekar Hum Deewana Dil,Lekar Hum Deewana Dil,0,2014,140,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,653
+tt3717068,7.7,Court,Court,0,2014,116,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3373
+tt3720634,5.4,3 AM: A Paranormal Experience,3 AM: A Paranormal Experience,0,2014,103,Horror|Romance,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,488
+tt3794302,6.2,Pizza,Pizza,0,2014,107,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,866
+tt3796006,5.7,ROAR: Tigers of the Sundarbans,ROAR: Tigers of the Sundarbans,0,2014,123,Action|Adventure|Sci-Fi,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,639
+tt3814100,6.2,M.A.D: Mad About Dance,M.A.D: Mad About Dance,0,2014,125,Drama|Musical,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,97
+tt3822600,5.5,Amit Sahni Ki List,Amit Sahni Ki List,0,2014,110,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,329
+tt3847072,6.1,Ekkees Toppon Ki Salaami,Ekkees Toppon Ki Salaami,0,2014,140,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,468
+tt3848888,5,The Shaukeens,The Shaukeens,0,2014,124,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2632
+tt3854246,5,Bazaar E Husn,Bazaar E Husn,0,2014,125,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+tt3877652,4.2,Desi Kattey,Desi Kattey,0,2014,139,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111
+tt3881136,5.3,Life Is Beautiful,Life Is Beautiful,0,2014,116,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,43
+tt3893476,5.7,Spark,Spark,0,2014,134,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+tt4010306,4.9,Jigariyaa,Jigariyaa,0,2014,142,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,286
+tt4045666,5.8,Mumbai Delhi Mumbai,Mumbai Delhi Mumbai,0,2014,120,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,299
+tt4087770,3.8,Balwinder Singh Famous Ho Gaya,Balwinder Singh Famous Ho Gaya,0,2014,136,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+tt4190220,6.5,Zed Plus,Zed Plus,0,2014,141,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,336
+tt4219300,4.5,Gollu aur Pappu,Gollu aur Pappu,0,2014,112,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82
+tt4228746,4.4,Zid,Zid,0,2014,126,Crime|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,929
+tt1375789,5.3,Race 2,Race 2,0,2013,150,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14300
+tt1833673,5.4,Dhoom 3,Dhoom:3,0,2013,172,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,41052
+tt1855268,5.5,Main Krishna Hoon,Main Krishna Hoon,0,2013,134,Animation|Family|Musical,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,159
+tt1891884,4.6,Once Upon a Time in Mumbai Dobaara!,Once Upon a Time in Mumbai Dobaara!,0,2013,160,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6211
+tt1986040,3.8,Ishkq in Paris,Ishkq in Paris,0,2013,95,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,692
+tt2066062,2.4,Shortcut Romeo,Shortcut Romeo,0,2013,146,Action|Crime|Romance,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,238
+tt2094854,6.1,Inkaar,Inkaar,0,2013,125,Drama|Romance|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,2352
+tt2100543,3,Hum Hai Raahi CAR Ke,Hum Hai Raahi CAR Ke,0,2013,\N,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,135
+tt2106537,5.6,Matru ki Bijlee ka Mandola,Matru ki Bijlee ka Mandola,0,2013,151,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5794
+tt2112124,6,Chennai Express,Chennai Express,0,2013,141,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45649
+tt2171454,3.5,Zila Ghaziabad,Zila Ghaziabad,0,2013,142,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1187
+tt2178470,7.1,Yeh Jawaani Hai Deewani,Yeh Jawaani Hai Deewani,0,2013,160,Comedy|Drama|Musical,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,34952
+tt2198235,6.5,Monsoon Shootout,Monsoon Shootout,0,2013,92,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,801
+tt2199711,8.2,Vishwaroopam,Vishwaroopam,0,2013,148,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,38016
+tt2203308,7,Aashiqui 2,Aashiqui 2,0,2013,132,Drama|Music|Musical,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,24878
+tt2213054,7.6,Kai po che!,Kai po che!,0,2013,120,Drama|Sport,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,25031
+tt2215163,4.4,Issaq,Issaq,0,2013,148,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,415
+tt2215477,6.4,Goliyon Ki Rasleela Ram-Leela,Goliyon Ki Rasleela Ram-Leela,0,2013,150,Drama|Musical|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,17246
+tt2222716,5.4,Baat Bann Gayi,Baat Bann Gayi,0,2013,108,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,61
+tt2224313,6.8,Listen... Amaya,Listen... Amaya,0,2013,108,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,553
+tt2224317,7.3,Lootera,Lootera,0,2013,136,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,13794
+tt2229842,7.1,Table No. 21,Table No.21,0,2013,108,Adventure|Thriller,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10364
+tt2229848,5.4,Chashme Baddoor,Chashme Baddoor,0,2013,121,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4702
+tt2246724,5.8,Ghanchakkar,Ghanchakkar,0,2013,137,Comedy|Crime|Thriller,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4450
+tt2275794,5,Gori Tere Pyaar Mein!,Gori Tere Pyaar Mein!,0,2013,150,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3250
+tt2275802,5.9,Satyagraha,Satyagraha,0,2013,152,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4623
+tt2318401,6.1,Bandook,Bandook,0,2013,132,Crime|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,114
+tt2323964,6.4,Mere Dad Ki Maruti,Mere Dad Ki Maruti,0,2013,101,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4224
+tt2334779,6.6,Qissa: The Tale of a Lonely Ghost,Qissa: The Tale of a Lonely Ghost,0,2013,109,Drama|Fantasy,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,737
+tt2337292,6.7,Chor Chor Super Chor,Chor Chor Super Chor,0,2013,99,Comedy|Drama|Thriller,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,217
+tt2341766,5.8,Nautanki Saala!,Nautanki Saala!,0,2013,119,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3891
+tt2344678,1.7,Himmatwala,Himmatwala,0,2013,150,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7470
+tt2350496,7.8,The Lunchbox,Dabba,0,2013,104,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,43790
+tt2356180,8.2,Bhaag Milkha Bhaag,Bhaag Milkha Bhaag,0,2013,186,Biography|Drama|Sport,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,56205
+tt2357926,5.6,Ramaiya Vastavaiya,Ramaiya Vastavaiya,0,2013,148,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3118
+tt2359810,7.6,Raanjhanaa,Raanjhanaa,0,2013,140,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,27434
+tt2362778,6.8,Saheb Biwi Aur Gangster Returns,Saheb Biwi Aur Gangster Returns,0,2013,142,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3540
+tt2375567,1.9,Super Model,Super Model,0,2013,83,Drama|Mystery|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,145
+tt2377938,8,Special 26,Special Chabbis,0,2013,144,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,46590
+tt2385104,7.2,D-Day,D-Day,0,2013,153,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8421
+tt2389486,6.8,Mai,Mai,0,2013,105,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,90
+tt2401719,5.9,Prague,Prague,0,2013,109,Mystery|Romance|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,313
+tt2404187,7.8,Bloody Isshq,Bloody Isshq,0,2013,\N,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,29
+tt2404519,3.6,3G - A Killer Connection,3G - A Killer Connection,0,2013,125,Horror|Sci-Fi|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1064
+tt2406676,5.7,Ek Thi Daayan,Ek Thi Daayan,0,2013,135,Horror|Romance|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,3628
+tt2423132,6.2,Akaash Vani,Akaash Vani,0,2013,149,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1586
+tt2429640,4.9,Murder 3,Murder 3,0,2013,124,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2182
+tt2436516,6.6,Go Goa Gone,Go Goa Gone,0,2013,108,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10605
+tt2437954,5.7,Singh Saab the Great,Singh Saab the Great,0,2013,134,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2044
+tt2438764,2.8,Rajjo,Rajjo,0,2013,123,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,283
+tt2476154,4.3,Grand Masti,Grand Masti,0,2013,137,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5423
+tt2551378,5,Bullett Raja,Bullett Raja,0,2013,138,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3508
+tt2554042,6.7,Maazii,Maazii,0,2013,123,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,64
+tt2571140,5.1,Boss,Boss,0,2013,143,Action,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9674
+tt2613942,5.9,Dehraadun Diary,Dehraadun Diary,0,2013,\N,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,44
+tt2615584,4.8,Phata Poster Nikhla Hero,Phata Poster Nikhla Hero,0,2013,146,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3965
+tt2621000,7.5,Jolly LLB,Jolly LLB,0,2013,135,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15157
+tt2622130,5.3,Jayantabhai Ki Luv Story,Jayantabhai Ki Luv Story,0,2013,130,Action|Comedy|Romance,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1143
+tt2624852,7.5,Gangoobai,Gangoobai,0,2013,110,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,282
+tt2658126,6.1,Commando,Commando,0,2013,124,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3935
+tt2699840,5.7,John Day,John Day,0,2013,138,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,735
+tt2706264,5.1,Rangrezz,Rangrezz,0,2013,144,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,387
+tt2708550,6.8,Jal,Jal,0,2013,126,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,415
+tt2796318,6.1,Mickey Virus,Mickey Virus,0,2013,135,Comedy|Thriller,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2459
+tt2797242,6.7,Bombay Talkies,Bombay Talkies,0,2013,127,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4576
+tt2804026,6.5,Aurangzeb,Aurangzeb,0,2013,137,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3674
+tt2806788,6.9,Fukrey,Fukrey,0,2013,139,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9666
+tt2814372,5.6,Gippi,Gippi,0,2013,95,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,734
+tt2848824,5.3,Bajatey Raho,Bajatey Raho,0,2013,107,Comedy|Drama|Thriller,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,693
+tt2855648,7.7,Madras Cafe,Madras Cafe,0,2013,130,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,21393
+tt2857500,7.1,Saare Jahaan Se Mehnga...,Saare Jahaan Se Mehnga...,0,2013,120,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,883
+tt2861320,4,Policegiri,Policegiri,0,2013,141,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1263
+tt2882328,8.1,Ugly,Ugly,0,2013,128,Crime|Drama|Mystery,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,17483
+tt2912578,6.5,Ankur Arora Murder Case,Ankur Arora Murder Case,0,2013,129,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1406
+tt2929840,2.7,Zindagi 50 50,Zindagi 50 50,0,2013,130,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,208
+tt2932606,7.3,Siddharth,Siddharth,0,2013,96,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,582
+tt2941856,5.1,Enemmy,Enemmy,0,2013,\N,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,205
+tt2976172,6.3,Sixteen,Sixteen,0,2013,138,Drama|Romance|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1581
+tt2988272,5.7,Shuddh Desi Romance,Shuddh Desi Romance,0,2013,141,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5699
+tt3005850,4.3,Sooper Se Ooper,Sooper Se Ooper,0,2013,\N,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156
+tt3044882,3.2,Nasha,Nasha,0,2013,122,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1098
+tt3059106,5.9,Satya 2,Satya 2,0,2013,142,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,882
+tt3129282,5.5,War Chod Na Yaar,War Chod Na Yaar,0,2013,119,Comedy|War,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,866
+tt3177332,4.3,Horror Story,Horror Story,0,2013,91,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1424
+tt3261022,6.6,Kajarya,Kajarya,0,2013,132,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,114
+tt3309662,2,Jackpot,Jackpot,0,2013,132,Comedy|Thriller,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,657
+tt3311236,5.2,Calapor,Calapor,0,2013,120,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+tt3322420,8.2,Queen,Queen,0,2013,146,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,56406
+tt3324810,6.8,Chhota Bheem and the Throne of Bali,Chhota Bheem and the Throne of Bali,0,2013,130,Animation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86
+tt3357416,5.1,What the Fish,What the Fish,0,2013,98,Adventure|Comedy|Drama,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,151
+tt3431714,4.8,Mastram,Mastram,0,2013,98,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,414
+tt3614516,8,Ankhon Dekhi,Ankhon Dekhi,0,2013,107,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8672
+tt3766798,6.3,Wake Up India,Wake Up India,0,2013,130,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+tt1127220,4,Mr Bhatti on Chutti,Mr Bhatti on Chutti,0,2012,\N,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+tt1172587,5.7,Delhi Safari,Delhi Safari,0,2012,96,Animation|Comedy|Drama,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1481
+tt1286766,5.7,Fatso!,Fatso!,0,2012,98,Comedy|Fantasy|Romance,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,360
+tt1395025,5.1,Agent Vinod,Agent Vinod,0,2012,157,Action|Adventure|Thriller,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6708
+tt1563732,5.2,5 Ghantey Mien 5 Crore,5 Ghantey Mien 5 Crore,0,2012,111,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,59
+tt1620933,8.2,Paan Singh Tomar,Paan Singh Tomar,0,2012,135,Action|Biography|Crime,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29994
+tt1629715,6.3,Miss Lovely,Miss Lovely,0,2012,113,Crime|Drama|Romance,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2700
+tt1703958,5.7,Ek Main Aur Ekk Tu,Ek Main Aur Ekk Tu,0,2012,110,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,6081
+tt1706317,3.9,Tezz,Tezz,0,2012,121,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2001
+tt1728986,5.5,Bol Bachchan,Bol Bachchan,0,2012,155,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7533
+tt1773764,8,Ship of Theseus,Ship of Theseus,0,2012,140,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5833
+tt1784589,4.1,Players,Players,0,2012,163,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3621
+tt1785333,7.2,Chittagong,Chittagong,0,2012,105,Action|Drama|War,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1334
+tt1787988,7.2,Talaash,Talaash,0,2012,140,Crime|Drama|Mystery,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,36801
+tt1821480,8.1,Kahaani,Kahaani,0,2012,122,Mystery|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,53181
+tt1849718,6.9,Agneepath,Agneepath,0,2012,174,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20827
+tt1918886,2.4,Joker,Joker,0,2012,104,Comedy|Family|Sci-Fi,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,4716
+tt1941638,7.1,Sadda Adda,Sadda Adda,0,2012,130,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1251
+tt1949548,5.1,Heroine,Heroine,0,2012,149,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3763
+tt1954470,8.2,Gangs of Wasseypur,Gangs of Wasseypur,0,2012,321,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71636
+tt1954470,8.2,Gangs of Wasseypur,Gangs of Wasseypur,0,2012,321,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71636
+tt1956433,5.6,Ata Pata Lapatta,Ata Pata Lapatta,0,2012,120,Comedy|Musical,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,78
+tt1971365,3.9,Dangerous Ishq,Dangerous Ishhq,0,2012,130,Fantasy|Mystery|Romance,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,783
+tt1980986,5.2,Housefull 2,Housefull 2,0,2012,145,Action|Comedy|Musical,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,12146
+tt2016894,5.5,Ek Tha Tiger,Ek Tha Tiger,0,2012,132,Action|Romance|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,26996
+tt2027138,5,Kyaa Super Kool Hain Hum,Kyaa Super Kool Hain Hum,0,2012,136,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3494
+tt2072227,7.2,Shanghai,Shanghai,0,2012,120,Crime|Mystery|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,9143
+tt2082197,8.1,Barfi!,Barfi!,0,2012,151,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,70443
+tt2112131,4.9,Dabangg 2,Dabangg 2,0,2012,120,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14077
+tt2122340,6.4,Ferrari Ki Sawaari,Ferrari Ki Sawaari,0,2012,140,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4693
+tt2126282,5.9,Ekk Deewana Tha,Ekk Deewana Tha,0,2012,136,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2742
+tt2130242,5.8,Tere Naal Love Ho Gaya,Tere Naal Love Ho Gaya,0,2012,130,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3831
+tt2158633,4.3,Married 2 America,Married 2 America,0,2012,\N,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,14
+tt2164702,4.7,Zindagi Tere Naam,Zindagi Tere Naam,0,2012,120,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,27
+tt2168910,6.3,Cocktail,Cocktail,0,2012,146,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,12514
+tt2172071,5.4,Student of the Year,Student of the Year,0,2012,146,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,13358
+tt2175671,2.2,Ghost,Ghost,0,2012,118,Horror,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,207
+tt2176013,6.7,Jab Tak Hai Jaan,Jab Tak Hai Jaan,0,2012,176,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,48945
+tt2178508,4,Son of Sardaar,Son of Sardaar,0,2012,141,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8258
+tt2181831,8.3,Shahid,Shahid,0,2012,129,Biography|Crime|Drama,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13537
+tt2181931,7.8,English Vinglish,English Vinglish,0,2012,134,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,31107
+tt2184125,6.1,Chaalis Chauraasi,Chaalis Chauraasi,0,2012,120,Comedy|Crime,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,444
+tt2185084,6.2,From Sydney with Love,From Sydney with Love,0,2012,\N,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,68
+tt2186731,3.2,Department,Department,0,2012,141,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,902
+tt2187972,4.2,Shirin Farhad Ki Toh Nikal Padi,Shirin Farhad Ki Toh Nikal Padi,0,2012,111,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,983
+tt2188805,6.2,Login,Login,0,2012,125,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,87
+tt2188811,5.5,Luv U Soniyo,Luv U Soniyo,0,2012,144,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,63
+tt2188893,5.7,Staying Alive,Staying Alive,0,2012,89,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+tt2191641,4.1,Chaar Din Ki Chandni,Chaar Din Ki Chandni,0,2012,131,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,374
+tt2191721,3.5,Jodi Breakers,Jodi Breakers,0,2012,127,Comedy|Musical|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1063
+tt2196638,7.5,Gulabi Gang,Gulabi Gang,0,2012,96,Documentary,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195
+tt2211133,2.7,Valentine's Night,Valentine's Night,0,2012,\N,Romance|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,23
+tt2222550,4.8,1920: Evil Returns,1920: Evil Returns,0,2012,124,Drama|Horror|Romance,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1587
+tt2232524,3.5,Mere Dost Picture Abhi Baaki Hai,Mere Dost Picture Abhi Baaki Hai,0,2012,180,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,178
+tt2243336,5.8,Aalaap,Aalaap,0,2012,116,Sci-Fi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23
+tt2246595,5.1,Blood Money,Blood Money,0,2012,109,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,893
+tt2251552,6,Challo Driver,Challo Driver,0,2012,95,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,157
+tt2255934,4.3,Aiyyaa,Aiyyaa,0,2012,152,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1571
+tt2256514,3.7,Rush,Rush,0,2012,110,Crime|Thriller,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,793
+tt2265191,7.2,Bumboo,Bumboo,0,2012,126,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2030
+tt2283748,8.2,OMG: Oh My God!,OMG: Oh My God!,0,2012,125,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,46072
+tt2292625,6.8,Chakravyuh,Chakravyuh,0,2012,152,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2876
+tt2294685,6,Jeena Hai Toh Thok Daal,Jeena Hai Toh Thok Daal,0,2012,123,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+tt2308773,6.5,Ishaqzaade,Ishaqzaade,0,2012,120,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,6214
+tt2309987,5.3,Hate Story,Hate Story,0,2012,140,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3234
+tt2317103,6.5,Sons of Ram,Sons of Ram,0,2012,85,Animation|Drama|Musical,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,67
+tt2317337,7.8,Vicky Donor,Vicky Donor,0,2012,126,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,36545
+tt2321492,6.3,Krishna Aur Kans,Krishna Aur Kans,0,2012,117,Action|Adventure|Animation,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,157
+tt2327389,5.5,Life Ki Toh Lag Gayi,Life Ki Toh Lag Gayi,0,2012,155,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,233
+tt2339549,4.9,Maximum,Maximum,0,2012,110,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,187
+tt2346744,4.5,Cigarette Ki Tarah,Cigarette Ki Tarah,0,2012,107,Romance|Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,21
+tt2347289,4.1,Bittoo Boss,Bittoo Boss,0,2012,116,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,339
+tt2354407,4.7,Teri Meri Kahaani,Teri Meri Kahaani,0,2012,117,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3669
+tt2356959,4.2,Ajab Gazabb Love,Ajab Gazabb Love,0,2012,116,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,491
+tt2367056,6.3,Chal Pichchur Banate Hain,Chal Pichchur Banate Hain,0,2012,115,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+tt2378057,5.5,?: A Question Mark,?: A Question Mark,0,2012,82,Horror|Mystery|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,285
+tt2387495,7.2,Jalpari: The Desert Mermaid,Jalpari: The Desert Mermaid,0,2012,94,Drama|Family|Mystery,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,334
+tt2402131,4.2,Kismet Love Paisa Dilli,Kismet Love Paisa Dilli,0,2012,129,Adventure|Comedy|Crime,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,532
+tt2402745,6.9,Yeh Khula Aasmaan,Yeh Khula Aasmaan,0,2012,\N,Family,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,24
+tt2404027,6.8,Arjun: The Warrior Prince,Arjun: The Warrior Prince,0,2012,96,Action|Adventure|Animation,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1286
+tt2406636,2.5,Bhoot Returns,Bhoot Returns,0,2012,85,Horror|Mystery|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,480
+tt2408040,6.4,B.A. Pass,B.A. Pass,0,2012,95,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3219
+tt2417560,7.3,Filmistaan,Filmistaan,0,2012,117,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3162
+tt3431756,3.1,Rakhtbeej,Rakhtbeej,0,2012,120,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9
+tt1285241,7.1,Don 2,Don 2,0,2011,148,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,47109
+tt1363125,2.5,Naughty @ 40,Naughty @ 40,0,2011,108,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,268
+tt1363363,1.7,Chatur Singh Two Star,Chatur Singh Two Star,0,2011,150,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,547
+tt1368453,6.3,Chargesheet,Chargesheet,0,2011,\N,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,84
+tt1465488,3.6,Happy Husbands,Happy Husbands,0,2011,134,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+tt1503640,4,Damadamm!,Damadamm!,0,2011,122,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,388
+tt1512220,5.3,My Friend Pinto,My Friend Pinto,0,2011,100,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,334
+tt1535467,5.6,Patiala House,Patiala House,0,2011,140,Drama|Sport,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,8301
+tt1562871,4.6,Ra.One,Ra.One,0,2011,156,Action|Adventure|Sci-Fi,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,36221
+tt1562872,8.1,Zindagi Na Milegi Dobara,Zindagi Na Milegi Dobara,0,2011,155,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,60826
+tt1605790,4,Zokkomon,Zokkomon,0,2011,109,Action|Adventure,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,274
+tt1618430,6.2,Dum Maaro Dum,Dum Maaro Dum,0,2011,128,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3653
+tt1627924,4.7,Mausam,Mausam,0,2011,161,Drama|Romance|War,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,4964
+tt1629376,6.1,Seven Sins Forgiven,7 Khoon Maaf,0,2011,137,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,5059
+tt1630282,4.9,Sahi Dhandhe Galat Bande,Sahi Dhandhe Galat Bande,0,2011,119,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,259
+tt1666184,5.2,Turning 30!!!,Turning 30!!!,0,2011,121,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,351
+tt1667076,4.6,F.A.L.T.U,F.A.L.T.U,0,2011,120,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2758
+tt1694542,6.7,Tanu Weds Manu,Tanu Weds Manu,0,2011,113,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,12091
+tt1695793,5.4,Love U... Mr. Kalakaar!,Love U... Mr. Kalakaar!,0,2011,152,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,403
+tt1696191,5.4,Tere Mere Phere,Tere Mere Phere,0,2011,120,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,237
+tt1704680,5.7,A Decent Arrangement,A Decent Arrangement,0,2011,96,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,220
+tt1720254,4.6,Thank You,Thank You,0,2011,125,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4747
+tt1727496,5.7,Dil Toh Baccha Hai Ji,Dil Toh Baccha Hai Ji,0,2011,143,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3387
+tt1728239,3.8,Double Dhamaal,Double Dhamaal,0,2011,138,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3105
+tt1729637,4.6,Bodyguard,Bodyguard,0,2011,130,Action|Comedy|Romance,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,20745
+tt1734110,7.2,No One Killed Jessica,No One Killed Jessica,0,2011,136,Biography|Crime|Drama,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10164
+tt1736552,5.7,Breakaway,Breakaway,0,2011,101,Comedy|Drama|Sport,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2123
+tt1740710,5.8,Mere Brother Ki Dulhan,Mere Brother Ki Dulhan,0,2011,139,Comedy|Family|Romance,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,8390
+tt1772872,5.1,Game,Game,0,2011,135,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1786
+tt1773109,5.6,Yamla Pagla Deewana,Yamla Pagla Deewana,0,2011,163,Action|Comedy|Drama,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3739
+tt1801521,5.8,Khap,Khap,0,2011,125,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,92
+tt1809399,6.1,Utt Pataang,Utt Pataang,0,2011,120,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,285
+tt1814619,3.7,Aashiqui.in,Aashiqui.in,0,2011,109,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,59
+tt1821692,3.9,United Six,United Six,0,2011,\N,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,43
+tt1825655,6.5,Angel,Angel,0,2011,114,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+tt1825801,5.1,Hostel,Hostel,0,2011,111,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,533
+tt1826051,5.1,Yeh Dooriyan,Yeh Dooriyan,0,2011,107,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,68
+tt1826763,5.4,Mumbhai Connection,Mumbhai Connection,0,2011,90,Comedy|Crime|Thriller,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,22
+tt1828289,7,Shagird,Shagird,0,2011,143,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1648
+tt1830786,2.9,Rascals,Rascals,0,2011,128,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2377
+tt1836912,7.2,Shaitan,Shaitan,0,2011,121,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7616
+tt1839596,7.7,Rockstar,Rockstar,0,2011,159,Drama|Music|Musical,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,35757
+tt1841542,7.4,Chillar Party,Chillar Party,0,2011,135,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6255
+tt1847736,6,U R My Jaan,U R My Jaan,0,2011,140,Romance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,91
+tt1848771,6.2,Aarakshan,Aarakshan,0,2011,164,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4629
+tt1867070,4.3,Teen Thay Bhai,Teen Thay Bhai,0,2011,\N,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,297
+tt1869296,5.6,Bbuddah... Hoga Terra Baap,Bbuddah... Hoga Terra Baap,0,2011,114,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2580
+tt1877691,5.7,Love Breakups Zindagi,Love Breakups Zindagi,0,2011,156,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,930
+tt1883121,7.2,404: Error Not Found,404: Error Not Found,0,2011,121,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1793
+tt1884268,6.8,Chalo Dilli,Chalo Dilli,0,2011,155,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2819
+tt1886663,5.5,Satrangee Parachute,Satrangee Parachute,0,2011,115,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,60
+tt1887763,6.2,Haunted - 3D,Haunted - 3D,0,2011,143,Horror|Mystery|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1888
+tt1887817,5.6,Monica,Monica,0,2011,124,Biography|Drama|Thriller,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,68
+tt1890513,4.9,Ragini MMS,Ragini MMS,0,2011,93,Drama|Horror|Mystery,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,2296
+tt1900937,5.8,Mumbai Mast Kallander,Mumbai Mast Kallander,0,2011,\N,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+tt1907761,7.8,Stanley Ka Dabba,Stanley Ka Dabba,0,2011,96,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5407
+tt1918965,6.2,Murder 2,Murder 2,0,2011,127,Action|Drama|Horror,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,5899
+tt1926313,7.7,Pyaar Ka Punchnama,Pyaar Ka Punchnama,0,2011,149,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,18369
+tt1934231,7.5,Delhi Belly,Delhi Belly,0,2011,103,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25281
+tt1937092,4,Always Kabhi Kabhi,Always Kabhi Kabhi,0,2011,126,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1230
+tt1939654,4.7,Bheja Fry 2,Bheja Fry 2,0,2011,129,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1179
+tt1942905,4.3,Kucch Luv Jaisaa,Kucch Luv Jaisaa,0,2011,105,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,119
+tt1947973,3.9,Bin Bulaye Baraati,Bin Bulaye Baraati,0,2011,133,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225
+tt1948047,2.3,Impatient Vivek,Impatient Vivek,0,2011,\N,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,56
+tt1948150,6.7,Singham,Singham,0,2011,143,Action|Drama,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13176
+tt1954206,6.6,The Dirty Picture,The Dirty Picture,0,2011,144,Biography|Drama,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8067
+tt1954598,5.9,Ladies vs. Ricky Bahl,Ladies vs. Ricky Bahl,0,2011,140,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,8069
+tt1961530,2.5,Tell Me O Kkhuda,Tell Me O Kkhuda,0,2011,125,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,316
+tt1980970,2.6,Gandhi to Hitler,Gandhi to Hitler,0,2011,108,Drama|History|War,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,188
+tt1985981,5.7,Desi Boyz,Desi Boyz,0,2011,122,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12089
+tt1992138,6.4,Force,Force,0,2011,137,Action|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6497
+tt1999935,5,Not a Love Story,Not a Love Story,0,2011,100,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,666
+tt2012576,7.3,Bubble Gum,Bubble Gum,0,2011,116,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,429
+tt2023645,5.3,Phhir,Phhir,0,2011,100,Drama|Mystery|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,166
+tt2032530,5.7,Shabri,Shabri,0,2011,\N,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,121
+tt2033947,4.4,Aazaan,Aazaan,0,2011,125,Action|Drama|Mystery,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,329
+tt2034011,3.7,Hum Tum Shabana,Hum Tum Shabana,0,2011,126,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,270
+tt2057441,6.9,Mujhse Fraaandship Karoge,Mujhse Fraaandship Karoge,0,2011,106,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3708
+tt2066925,5.5,Mummy Punjabi: Superman Ki Bhi Maa!!,Mummy Punjabi: Superman Ki Bhi Maa!!,0,2011,121,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+tt2073070,7.2,Saheb Biwi Aur Gangster,Saheb Biwi Aur Gangster,0,2011,118,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3709
+tt2104937,3,Miley - Naa Miley - Hum,Miley - Naa Miley - Hum,0,2011,114,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,159
+tt2112978,5.4,Jo Hum Chahein,Jo Hum Chahein,0,2011,\N,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,94
+tt2156785,7.3,Gattu,Gattu,0,2011,90,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,379
+tt0443331,4.1,Milenge Milenge,Milenge Milenge,0,2010,109,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1606
+tt0988655,4.6,A Flat,A Flat,0,2010,103,Drama|Horror|Romance,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,191
+tt1124386,3.9,Pankh,Pankh,0,2010,98,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,113
+tt1182884,4.2,Dulha Mil Gaya,Dulha Mil Gaya,0,2010,152,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2314
+tt1183917,4.1,Teen Patti,Teen Patti,0,2010,142,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1341
+tt1183944,4.6,Sadiyaan: Boundaries Divide... Love Unites,Sadiyaan: Boundaries Divide... Love Unites,0,2010,200,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,67
+tt1185412,4.6,Veer,Veer,0,2010,169,Action|Adventure|Drama,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6801
+tt1188996,8,My Name Is Khan,My Name Is Khan,0,2010,165,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,92755
+tt1189006,4.2,Toonpur Ka Superrhero,Toonpur Ka Superrhero,0,2010,95,Action|Adventure|Animation,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,628
+tt1191118,2.7,Hello Darling,Hello Darling,0,2010,\N,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+tt1191130,6.4,Right Yaaa Wrong,Right Yaaa Wrong,0,2010,135,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,799
+tt1194232,3.8,Jaane Kahan Se Aayi Hai,Jaane Kahan Se Aayi Hai,0,2010,94,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,512
+tt1194236,4.9,Paathshaala,Get Educated: Paathshaala,0,2010,122,Drama|Family,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1413
+tt1198101,6,Kites,Kites,0,2010,123,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,11605
+tt1227524,7.1,Aashayein,Aashayein,0,2010,120,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1136
+tt1244093,2.9,Hisss,Hisss,0,2010,98,Comedy|Drama|Horror,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1462
+tt1279105,3.4,Ramaa: The Saviour,Ramaa: The Saviour,0,2010,120,Action|Adventure|Drama,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,132
+tt1285245,6.4,Lahore,Lahore,0,2010,145,Action|Drama|Sport,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,502
+tt1292642,6.2,People of Allah,Allah Ke Banday,0,2010,123,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,281
+tt1309561,5,Lamhaa: The Untold Story of Kashmir,Lamhaa: The Untold Story of Kashmir,0,2010,152,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,594
+tt1319716,5.3,It's a Wonderful Afterlife,It's a Wonderful Afterlife,0,2010,100,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1385
+tt1322257,6.1,Jhootha Hi Sahi,Jhootha Hi Sahi,0,2010,142,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1733
+tt1334470,5.4,Raavan,Raavan,0,2010,130,Action|Adventure|Drama,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3897
+tt1345777,7.3,Ishqiya,Ishqiya,0,2010,118,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9431
+tt1351224,4.6,Pyaar Impossible!,Pyaar Impossible!,0,2010,140,Comedy|Romance,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2836
+tt1373156,7,Karthik Calling Karthik,Karthik Calling Karthik,0,2010,135,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,9451
+tt1388903,6.6,Mirch,Mirch,0,2010,105,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,792
+tt1392744,4.7,Chance Pe Dance,Chance Pe Dance,0,2010,122,Comedy|Drama|Music,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2562
+tt1395054,7.4,Once Upon a Time in Mumbai,Once Upon a Time in Mumbaai,0,2010,134,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15169
+tt1396208,4.2,Action Replay,Action Replayy,0,2010,129,Comedy|Romance|Sci-Fi,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,5094
+tt1425618,3.4,Apartment: Rent at Your Own Risk,Apartment: Rent at Your Own Risk,0,2010,97,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,206
+tt1431122,4.2,No Problem,No Problem,0,2010,139,Action|Comedy|Crime,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1961
+tt1433810,7,Dhobi Ghat,Dhobi Ghat,0,2010,100,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11792
+tt1438298,7.4,Guzaarish,Guzaarish,0,2010,126,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15925
+tt1442583,5.7,Tum Milo Toh Sahi,Tum Milo Toh Sahi,0,2010,128,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,307
+tt1447508,7.4,Peepli (Live),Peepli (Live),0,2010,95,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11141
+tt1451797,6.9,Rann,Rann,0,2010,137,Drama|Mystery|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,2200
+tt1455811,5.6,Khatta Meetha,Khatta Meetha,0,2010,157,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8717
+tt1455816,4.2,Prince,Prince,0,2010,138,Action|Sci-Fi|Thriller,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1753
+tt1465493,4.7,Hum Tum Aur Ghost,Hum Tum Aur Ghost,0,2010,125,Comedy|Drama|Fantasy,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,613
+tt1471247,7.5,Road to Sangam,Road to Sangam,0,2010,135,Drama|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,642
+tt1499201,5.8,Anjaana Anjaani,Anjaana Anjaani,0,2010,151,Comedy|Drama|Musical,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,5697
+tt1558578,5.9,Knock Out,Knock Out,0,2010,117,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1857
+tt1572311,2.5,Tees Maar Khan,Tees Maar Khan,0,2010,135,Comedy|Crime,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10417
+tt1573072,5.3,Housefull,Housefull,0,2010,144,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11568
+tt1573482,7,Striker,Striker,0,2010,128,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,966
+tt1578261,5.2,Break Ke Baad,Break Ke Baad,0,2010,118,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3714
+tt1594964,4.8,Chase,Chase,0,2010,103,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+tt1596723,3.5,Click,Click,0,2010,127,Drama|Horror|Mystery,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,293
+tt1600439,5.5,Shaapit: The Cursed,Shaapit: The Cursed,0,2010,145,Adventure|Horror|Romance,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,698
+tt1605778,5.2,Toh Baat Pakki!,Toh Baat Pakki!,0,2010,122,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,339
+tt1606162,6.1,Aakhari Decision,Aakhari Decision,0,2010,\N,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,66
+tt1606267,5.2,Lafangey Parindey,Lafangey Parindey,0,2010,126,Action|Drama|Romance,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1871
+tt1607607,4.8,Mittal v/s Mittal,Mittal v/s Mittal,0,2010,\N,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+tt1608768,6.8,City of Gold - Mumbai 1982: Ek Ankahee Kahani,City of Gold - Mumbai 1982: Ek Ankahee Kahani,0,2010,145,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,342
+tt1608777,7.1,LSD: Love Sex Aur Dhokha,LSD: Love Sex Aur Dhokha,0,2010,155,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4894
+tt1609147,7.3,Malik Ek,Malik Ek,0,2010,\N,Biography|Drama|History,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,20
+tt1610418,3.5,Prem Kaa Game,Prem Kaa Game,0,2010,\N,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,194
+tt1610452,7.2,Band Baaja Baaraat,Band Baaja Baaraat,0,2010,139,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,14081
+tt1612573,4.3,Rokkk,Rokkk,0,2010,180,Drama|Horror|Mystery,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,115
+tt1612611,3.2,Phoonk 2,Phoonk 2,0,2010,110,Drama|Horror|Mystery,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,459
+tt1620620,7.6,The Japanese Wife,The Japanese Wife,0,2010,105,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1949
+tt1620719,6.3,Fearless,Dabangg,0,2010,126,Action|Comedy,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25794
+tt1620907,6.2,Na Ghar Ke Na Ghaat Ke,Na Ghar Ke Na Ghaat Ke,0,2010,\N,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,258
+tt1620971,5.7,Sukhmani,Sukhmani,0,2010,\N,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+tt1629241,6,Bumm Bumm Bole,Bumm Bumm Bole,0,2010,124,Drama|Family|Thriller,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,482
+tt1629260,3.5,Ek Second... Jo Zindagi Badal De...,Ek Second... Jo Zindagi Badal De...,0,2010,\N,Drama|Romance|Thriller,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,40
+tt1629295,6.9,I Am,I Am,0,2010,95,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,804
+tt1629391,7.2,Tere Bin Laden,Tere Bin Laden,0,2010,95,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9872
+tt1629424,2.7,Trump Card,Trump Card,0,2010,\N,Action|Drama|Mystery,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,16
+tt1630613,6.6,Soch Lo,Soch Lo,0,2010,\N,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,83
+tt1639426,8.2,Udaan,Udaan,0,2010,134,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,39567
+tt1646217,4.2,Mr. Singh/Mrs. Mehta,Mr. Singh/Mrs. Mehta,0,2010,118,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,175
+tt1649760,6,The Film Emotional Atyachar,The Film Emotional Atyachar,0,2010,87,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,278
+tt1663647,4.4,Help,Help,0,2010,109,Horror|Thriller,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,338
+tt1667838,5.6,I Hate Luv Storys,I Hate Luv Storys,0,2010,129,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,7059
+tt1673411,4.3,Kushti,Kushti,0,2010,121,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,146
+tt1708453,7,Aakrosh,Aakrosh,0,2010,115,Action|Crime|Thriller,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2987
+tt1714832,7.6,Do Dooni Chaar,Do Dooni Chaar,0,2010,112,Comedy|Drama,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4556
+tt1738293,7.2,Khichdi: The Movie,Khichdi: The Movie,0,2010,120,Comedy|Family,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1774
+tt1742307,3.7,Dunno Y Na Jaane Kyun...,Dunno Y Na Jaane Kyun...,0,2010,137,Drama|Romance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,137
+tt1744641,5.9,Ramayana: The Epic,Ramayana: The Epic,0,2010,98,Adventure|Animation|Family,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,361
+tt1745753,4.8,Life Express,Life Express,0,2010,125,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+tt1753640,5,Crook: It's Good to Be Bad,Crook: It's Good to Be Bad,0,2010,121,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1686
+tt1773015,7.5,Phas Gaye Re Obama,Phas Gaye Re Obama,0,2010,108,Comedy|Crime|Drama,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4660
+tt1781838,5.7,Isi Life Mein...!,Isi Life Mein...!,0,2010,139,Comedy|Drama|Romance,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,344
+tt1805263,8,I Am Kalam,I Am Kalam,0,2010,88,Comedy|Drama|Family,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3186
+tt1808221,3.2,Kaalo,Kaalo,0,2010,79,Action|Drama|Horror,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,209
+tt1895476,7.1,Memories in March,Memories in March,0,2010,104,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,357
+tt1916728,7.2,Shor in the City,Shor in the City,0,2010,112,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3221
+tt1920986,4.2,Khuda Kasam,Khuda Kasam,0,2010,160,Action|Crime|Drama,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,82
+tt1221147,6,Tera Kya Hoga Johnny,Tera Kya Hoga Johnny,0,2009,155,Crime|Drama|Thriller,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,191
+tt1245732,6.4,Red Alert: The War Within,Red Alert: The War Within,0,2009,120,Action|Drama|Thriller,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,318
+tt1397492,7.3,Well Done Abba!,Well Done Abba!,0,2009,144,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1602
+tt1437367,8,Thanks Maa,Thanks Maa,0,2009,120,Crime|Drama,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,666
+tt1239276,7.1,Colours of Passion,Rang Rasiya,0,2008,132,Biography|Drama|Romance,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1699
+tt1722425,7.4,Antardwand,Antardwand,0,2008,114,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,472
+tt0246825,7.3,Om Dar-B-Dar,Om Dar-B-Dar,0,1988,101,Drama,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,280
+tt0073707,8.2,Sholay,Sholay,0,1975,198,Action|Adventure|Comedy,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47924
