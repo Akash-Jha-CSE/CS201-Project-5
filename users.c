@@ -14,19 +14,16 @@ int main(){
         count=0;
         fscanf(file,"%f",&data);
         data1=data/3000;
-        fprintf(f,"%f  ",data1);
+        fprintf(f,"%f\t",data1);
         while(count<22){
             fscanf(file2,"%f",&data2);
-            fscanf(file2,"%c",&a);
-            fscanf(file2,"%c",&b);
-            fscanf(file2,"%c",&c);
             count++;
             if(data2==0){
                 x=(int)data2;
-                fprintf(f,"%d  ",x);
+                fprintf(f,"%d\t",x);
             } 
             else{
-                fprintf(f,"%.1f  ",data2);
+                fprintf(f,"%.1f\t",data2);
             }
         }
         fprintf(f,"%c",nline);
