@@ -14,6 +14,60 @@ float mod(float input){
     return input;
 }
 
+void addUserInRatingModel(int movie,int user,int movies,float *rate){
+    float genre[21];
+    for(int j=0;j<21;j++){
+        genre[j]=0;
+    }
+    int bin;
+    FILE *fptr=fopen("genre10.txt","r");
+    for(int i=0;i<movies;i++){
+        for(int j=0;j<21;j++){
+            fscanf(fptr,"%d",&bin);
+            if(bin==1){
+                genre[j]+=rate[i];
+            }
+        }
+    }
+    fclose(fptr);
+    float maximum=0;
+    for(int j=0;j<21;j++){
+        if(maximum<genre[j])   maximum=genre[j];
+    }
+    for(int j=0;j<21;j++){
+        genre[j]=(genre[j]*10)/maximum;
+    }
+    float sum[movie];
+    float temp;
+    fptr=fopen("movgen.txt","r");
+    for(int i=0;i<movie;i++){
+        sum[i]=0;
+        for(int j=0;j<21;j++){
+            fscanf(fptr,"%f",&temp);
+            temp=genre[j]*temp;
+            sum[i]+=temp;
+        }
+    }
+    fclose(fptr);
+    int max=0;
+    for(int i=0;i<movie;i++){
+        if(max<sum[i])   max=sum[i];
+    }
+    for(int i=0;i<movie;i++){
+        sum[i]=(sum[i]*10)/max;
+    }
+    fptr=fopen("newUser.txt","a");
+    for(int i=0;i<movie;i++){
+        fprintf(fptr,"%f ",sum[i]);
+    }
+    fprintf(fptr,"\n");
+    fclose(fptr);
+    user++;
+    fptr=fopen("number.txt","w");
+    fprintf(fptr,"%d\n%d\n",movie,user);
+    return;
+}
+
 void ratingModel(int movie,int user){  
     printf("Please rate these movies on a scale of 0-10 (write rating and press enter)\n");
     int movies=10;
@@ -39,6 +93,7 @@ void ratingModel(int movie,int user){
     scanf("%f",&rate[8]);
     printf("sanju :");
     scanf("%f",&rate[9]);
+    addUserInRatingModel(movie,user,movies,rate);
     user=1000;
     for(int i=0;i<10;i++){
         rate[i]/=givenRating[i];   // normalising to compare
